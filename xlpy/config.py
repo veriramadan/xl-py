@@ -14,7 +14,9 @@ class Config(object):
 
     SERVICE_ID  =  {
         'XL_XTRA_KUOTA' : '8110577',
-        'XL_GO_IZI'     : '8211231'
+        'XL_GO_IZI'     : '8211231',
+	'XL_COMBO_LITE' : '8210882',
+	'XL_LITE'       : '8210883'
     }
 
     HEADERS     =  {
