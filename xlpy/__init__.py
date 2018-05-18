@@ -7,4 +7,4 @@ __author__         = 'Veri Ramadan'
 __author_email__   = 'veridarkit25@gmail.com'
 __url__            = 'http://github.com/veriramadan'
 
-__all__            = ['Config','Xl']
+__all__            = ['Config','XL']
